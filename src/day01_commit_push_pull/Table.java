@@ -18,7 +18,6 @@ public class Table {
         }
     }
 
-
     /*
     Method: multiplicationTable
     Param: void
@@ -33,8 +32,6 @@ public class Table {
             System.out.println("------");
         }
     }
-
-
 }
 
 
