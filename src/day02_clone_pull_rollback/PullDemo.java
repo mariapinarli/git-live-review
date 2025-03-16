@@ -6,6 +6,6 @@ public class PullDemo {
 
         System.out.println("Hello from teammate in GitHub");
 
-        System.our.println("Hello From Another teammate in GitHub");
+        System.out.println("Hello From Another teammate in GitHub");
     }
 }
