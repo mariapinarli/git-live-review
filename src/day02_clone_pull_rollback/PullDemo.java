@@ -7,8 +7,7 @@ public class PullDemo {
         System.out.println("Hello From Another teammate in GitHub");
 
         System.out.println("I just wanted some changes on my code for the pull :))  ");
-        
-
+        System.out.println("Hello i changed again some codes :))");
         
     }
 }
