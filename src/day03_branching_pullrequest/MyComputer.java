@@ -13,7 +13,7 @@ public class MyComputer {
     public String toString() {
         return "MyComputer{" +
                 "model='" + model + '\'' +
-                ", price=" + price +
+                ", price=$" + price +
                 '}';
     }
 }
